@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! 👋 Welcome to My Cybersecurity Hub<br>I’m Shaik Vahidbhasha, a passionate Cybersecurity Analyst in Training with a Master’s degree in Cybersecurity from De Montfort University and certifications including OSCP and Ethical Hacker. My GitHub is a showcase of my journey in the world of cybersecurity, featuring hands-on projects, tools, and write-ups that demonstrate my skills and enthusiasm for offensive security and threat intelligence.
 
-<br><br>🔒 About Me<br>Cybersecurity Enthusiast: With a deep interest in network security, penetration testing, and malware analysis.<br>CTF Player: Ranked in the top 1% on TryHackMe and active on Hack The Box.<br>Problem Solver: Continuously learning and developing tools to address real-world cybersecurity challenges.<br>
+<br>🔒 About Me<br>Cybersecurity Enthusiast: With a deep interest in network security, penetration testing, and malware analysis.<br>CTF Player: Ranked in the top 1% on TryHackMe and active on Hack The Box.<br>Problem Solver: Continuously learning and developing tools to address real-world cybersecurity challenges.<br>
 
 🌟 Skills & Expertise<br>Network Security: Tools like Wireshark, Nmap, and IDS/IPS tuning.<br>Offensive Security: Kali Linux, Metasploit, and vulnerability assessments.<br>Programming & Automation: Python, Bash scripting, and PowerShell.<br>Cloud Security: Understanding OWASP Top 10 and securing cloud environments.<br>Incident Response: Proficient in EDR, threat intelligence, and forensic analysis
 
